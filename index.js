@@ -39,7 +39,12 @@ Do the following:
    4. Console log the value of the 1st variable
 
    HINT: no function required
-*/
+*/const firstThing = 0
+const secondThing = 1
+if(firstThing === secondThing); {
+  console.log('These are not the same');
+}
+console.log(firstThing)
 
 
 
@@ -55,6 +60,14 @@ Do the following:
 
    HINT: look up the Number method
 */
+const str = '1999';
+
+Number = ("1999") 
+
+console.log(Number);
+
+
+
 
 
 
