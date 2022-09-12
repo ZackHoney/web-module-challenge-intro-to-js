@@ -84,6 +84,9 @@ Do the following:
 function multiply(num1, num2){
   return num1 * num2;
 }
+let resulMultiply = multiply(5,8);
+console.log(resulMultiply)
+
 
 
 
