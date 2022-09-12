@@ -62,7 +62,7 @@ Do the following:
 */
 const str = '1999';
 
-Number = ("1999") 
+var Number = ("1999") 
 
 console.log(Number);
 
