@@ -99,10 +99,18 @@ Do the following:
  2. Use the received value to calculate the age in dog years (1 human year is equal to 7 dog years)
  3. Return the newly calculated age
 */
-
-function dogYears(/*add your code here*/){
-  /*add your code here*/
+function dogYears(age){
+  var humanYears = 1
+  return humanYears * 7
 }
+ dogYears(7)
+
+
+  
+
+
+
+
 
 
 
